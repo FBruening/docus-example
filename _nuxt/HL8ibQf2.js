@@ -1,0 +1,1 @@
+import{l as r,c as t,e as n,Z as o}from"./JVpS_qK_.js";const s={};function c(e,a){return t(),n("strong",null,[o(e.$slots,"default",{},void 0,!0)])}const l=r(s,[["render",c],["__scopeId","data-v-1d8717b5"]]);export{l as default};
